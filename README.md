@@ -40,3 +40,7 @@ Outside container go to site http://locahost:9021 and run Jupyter notebook in yo
 * [Presentation](https://docs.google.com/presentation/d/1n7tDgpacqBI9YFgHfQJZx52yk23EisFH5CDOLjhGEeA/edit?usp=sharing)
 * [Datasets](Datasets)
 
+## References
+* [STREAM](https://github.com/pinellolab/STREAM)
+* [scopen](https://github.com/CostaLab/scopen)
+
